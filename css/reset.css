@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{font-family: 'NanumBarunGothic', sans-serif; font-size: 14px; line-height: 1.35; color: #1A0A09;}
+a{color: #1A0A09; text-decoration: none;}
+img{border: 0; vertical-align: top;}
+select, input{vertical-align: top;}
+ul,ol{list-style: none;}
+
+.hidden{color: transparent; font-size: 0;}
+.inner{max-width: 1442px; padding: 0 30px; margin: 0 auto; position: relative;}

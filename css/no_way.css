@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+/*본 css는 없는 페이지의 표식을 회색 및 반투명 처리로 하기 위해 따로 만들어졌습니다.*/
+
+/*모바일*/
+.mgnb .depth1:nth-child(1) .depth2 li:nth-child(4),.mgnb .depth1:nth-child(1) .depth2 li:nth-child(5),.mgnb .depth1:nth-child(1) .depth2 li:nth-child(6),.mgnb .depth1:nth-child(1) .depth2 li:nth-child(7){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.mgnb .depth1:nth-child(2) .depth2 > li:nth-child(3),.mgnb .depth1:nth-child(2) .depth2 > li:nth-child(4),.mgnb .depth1:nth-child(2) .depth2 > li:nth-child(5),.mgnb .depth1:nth-child(2) .depth2 > li:nth-child(6){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.mgnb .depth1:nth-child(3) .depth2 > li:nth-child(2),.mgnb .depth1:nth-child(3) .depth2 > li:nth-child(3),.mgnb .depth1:nth-child(3) .depth2 > li:nth-child(4){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.mgnb .depth1:nth-child(4) .depth2 > li:nth-child(2),.mgnb .depth1:nth-child(4) .depth2 > li:nth-child(3),.mgnb .depth1:nth-child(4) .depth2 > li:nth-child(4),.mgnb .depth1:nth-child(4) .depth2 > li:nth-child(5){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.mgnb .depth1:nth-child(5) .depth2 > li:nth-child(2),.mgnb .depth1:nth-child(5) .depth2 > li:nth-child(3){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.mgnb .depth1:nth-child(6) .depth2 > li:nth-child(2),.mgnb .depth1:nth-child(6) .depth2 > li:nth-child(3),.mgnb .depth1:nth-child(6) .depth2 > li:nth-child(4),.mgnb .depth1:nth-child(6) .depth2 > li:nth-child(5),.mgnb .depth1:nth-child(6) .depth2 > li:nth-child(6),.mgnb .depth1:nth-child(6) .depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.mgnb .depth1:nth-child(7) .depth2 > li:nth-child(2),.mgnb .depth1:nth-child(7) .depth2 > li:nth-child(3),.mgnb .depth1:nth-child(7) .depth2 > li:nth-child(4),.mgnb .depth1:nth-child(7) .depth2 > li:nth-child(5),.depth1:nth-child(7) .depth2 > li:nth-child(6){
+  background-color: #ddd; opacity: 0.5;
+}
+
+
+/*태블릿*/
+.tgnb .tap-depth2set .t1 li:nth-child(4),.tgnb .tap-depth2set .t1 li:nth-child(5),.tgnb .tap-depth2set .t1 li:nth-child(6),.tgnb .tap-depth2set .t1 li:nth-child(7){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.tgnb .tap-depth2set .t2 .tap-depth2 > li:nth-child(3),.tgnb .tap-depth2set .t2 .tap-depth2 > li:nth-child(4),.tgnb .tap-depth2set .t2 .tap-depth2 > li:nth-child(5),.tgnb .tap-depth2set .t2 .tap-depth2 > li:nth-child(6){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.tgnb .tap-depth2set .t3 .tap-depth2 > li:nth-child(2),.tgnb .tap-depth2set .t3 .tap-depth2 > li:nth-child(3),.tgnb .tap-depth2set .t3 .tap-depth2 > li:nth-child(4){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.tgnb .tap-depth2set .t4 .tap-depth2 > li:nth-child(2),.tgnb .tap-depth2set .t4 .tap-depth2 > li:nth-child(3),.tgnb .tap-depth2set .t4 .tap-depth2 > li:nth-child(4),.tgnb .tap-depth2set .t4 .tap-depth2 > li:nth-child(5){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.tgnb .tap-depth2set .t5 .tap-depth2 > li:nth-child(2),.tgnb .tap-depth2set .t5 .tap-depth2 > li:nth-child(3){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.tgnb .tap-depth2set .t6 .tap-depth2 > li:nth-child(2),.tgnb .tap-depth2set .t6 .tap-depth2 > li:nth-child(3),.tgnb .tap-depth2set .t6 .tap-depth2 > li:nth-child(4),.tgnb .tap-depth2set .t6 .tap-depth2 > li:nth-child(5),.tgnb .tap-depth2set .t6 .tap-depth2 > li:nth-child(6),.tgnb .tap-depth2set .t6 .tap-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.5;
+}
+
+.tgnb .tap-depth2set .t7 .tap-depth2 > li:nth-child(2),.tgnb .tap-depth2set .t7 .tap-depth2 > li:nth-child(3),.tgnb .tap-depth2set .t7 .tap-depth2 > li:nth-child(4),.tgnb .tap-depth2set .t7 .tap-depth2 > li:nth-child(5),.tgnb .tap-depth2set .t7 .tap-depth2 > li:nth-child(6){
+  background-color: #ddd; opacity: 0.5;
+}
+
+/*pc*/
+.gnb-wrap .w1 .pc-depth2 > li:nth-child(4),.gnb-wrap .w1 .pc-depth2 > li:nth-child(5),.gnb-wrap .w1 .pc-depth2 > li:nth-child(6),.gnb-wrap .w1 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+.gnb-wrap .w2 .pc-depth2 > li:nth-child(3),.gnb-wrap .w2 .pc-depth2 > li:nth-child(4),.gnb-wrap .w2 .pc-depth2 > li:nth-child(5),.gnb-wrap .w2 .pc-depth2 > li:nth-child(6),.gnb-wrap .w2 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+.gnb-wrap .w3 .pc-depth2 > li:nth-child(2),.gnb-wrap .w3 .pc-depth2 > li:nth-child(3),.gnb-wrap .w3 .pc-depth2 > li:nth-child(4),.gnb-wrap .w3 .pc-depth2 > li:nth-child(5),.gnb-wrap .w3 .pc-depth2 > li:nth-child(6),.gnb-wrap .w3 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+.gnb-wrap .w4 .pc-depth2 > li:nth-child(2),.gnb-wrap .w4 .pc-depth2 > li:nth-child(3),.gnb-wrap .w4 .pc-depth2 > li:nth-child(4),.gnb-wrap .w4 .pc-depth2 > li:nth-child(5),.gnb-wrap .w4 .pc-depth2 > li:nth-child(6),.gnb-wrap .w4 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+.gnb-wrap .w5 .pc-depth2 > li:nth-child(2),.gnb-wrap .w5 .pc-depth2 > li:nth-child(3),.gnb-wrap .w5 .pc-depth2 > li:nth-child(4),.gnb-wrap .w5 .pc-depth2 > li:nth-child(5),.gnb-wrap .w5 .pc-depth2 > li:nth-child(6),.gnb-wrap .w5 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+.gnb-wrap .w6 .pc-depth2 > li:nth-child(2),.gnb-wrap .w6 .pc-depth2 > li:nth-child(3),.gnb-wrap .w6 .pc-depth2 > li:nth-child(4),.gnb-wrap .w6 .pc-depth2 > li:nth-child(5),.gnb-wrap .w6 .pc-depth2 > li:nth-child(6),.gnb-wrap .w6 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+.gnb-wrap .w7 .pc-depth2 > li:nth-child(2),.gnb-wrap .w7 .pc-depth2 > li:nth-child(3),.gnb-wrap .w7 .pc-depth2 > li:nth-child(4),.gnb-wrap .w7 .pc-depth2 > li:nth-child(5),.gnb-wrap .w7 .pc-depth2 > li:nth-child(6),.gnb-wrap .w7 .pc-depth2 > li:nth-child(7){
+  background-color: #ddd; opacity: 0.3;
+}
+
+
+
